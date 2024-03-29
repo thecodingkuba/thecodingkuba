@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thecodingkuba
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on whatever
+- 👀 I’m interested in ONE PIECE
+- 🌱 I’m currently learning DSA ):
+- 💞️ I’m looking to collaborate on nothing hahahaha
 - 📫 codingkuba@gmail.com
 
 
