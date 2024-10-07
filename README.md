@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thecodingkuba
 - 👀 I’m interested in ONE PIECE
-- 🌱 I’m currently learning DSA ):
-- 💞️ I’m looking to collaborate on nothing hahahaha
+- 🌱 I’m currently working on some cool AI stuff XD
+- 💞️ I’m looking to collaborate on idk >.<
 - 📫 codingkuba@gmail.com
 
 
