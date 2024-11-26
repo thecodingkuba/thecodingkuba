@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thecodingkuba
-- 👀 I’m interested in ONE PIECE
-- 🌱 I’m currently working on some cool AI stuff XD
-- 💞️ I’m looking to collaborate on idk >.<
+- 👀 I’m interested in neurobiology
+- 🌱 I’m currently working on some cool AI stuff 
+- 💞️ I’m looking to collaborate on whatever
 - 📫 codingkuba@gmail.com
 
 
