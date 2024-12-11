@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @thecodingkuba
-- 👀 I’m interested in neurobiology
-- 🌱 I’m currently working on some cool AI stuff 
+- 🌴 I am a student at Stanford University
+- 👀 I’m interested in computational neuroscience
+- 🌱 I’m currently working on some AI projects
 - 💞️ I’m looking to collaborate on whatever
 - 📫 codingkuba@gmail.com
 
