@@ -1,1 +1,2 @@
-MEOW
+Stanford Computer Science
+
